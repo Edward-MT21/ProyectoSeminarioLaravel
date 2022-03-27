@@ -1,0 +1,21 @@
+
+{ 
+    "movies": [
+		{
+			"title" : "El padrino",
+			"year" : "1972", 
+			"director" : "Francis Ford Coppola", 
+			"poster" : "https://gcdn.emol.cl/lujo/files/2020/05/el-padrino-mansion16.jpg", 
+			"rented" : false, 
+			"synopsis" : "Don Vito Corleone (Marlon Brando) es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: Connie (Talia Shire), el impulsivo Sonny (James Caan), el pusilánime Freddie (John Cazale) y Michael (Al Pacino), que no quiere saber nada de los negocios de su padre. Cuando Corleone, en contra de los consejos de \"Il consigliere\" Tom Hagen (Robert Duvall), se niega a intervenir en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas."
+        },
+		{
+			"title" : "El Padrino. Parte II",
+			"year" : "1974", 
+			"director" : "Francis Ford Coppola", 
+			"poster" : "https://www.elespectador.com/resizer/hAxEzT9PKnZTSewZ_8sSc4_NRTM=/525x350/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/O6XDVCCX3BGMDH3VISEJ6POVSU.jpg", 
+			"rented" : false, 
+			"synopsis" : "Continuación de la historia de los Corleone por medio de dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York."
+        }
+    ]    
+}
